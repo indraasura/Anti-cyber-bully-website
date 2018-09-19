@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^case_study3$', views.cs1, name='cs3'),
     url(r'^case_study4$', views.cs1, name='cs4'),
     url(r'^$', views.homepage, name='home'),
+    url(r'^about_us/$',views.about_us,name='about_us'),
 ]
 
 if settings.DEBUG:

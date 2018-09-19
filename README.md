@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyber bullying portal
 
 This is our demo project for Smart India Hackathon 2018 where we got selected for Grand Finale round. [Idea proposal](https://github.com/indraasura/Scripters)
@@ -55,3 +56,7 @@ Our main focus was to create one user-friendly interface so that user can come t
 ### Dashboard
 
 <img src="https://imgur.com/uPN1Ads.jpg">
+=======
+# Anti-cyber-bully-website
+Website for reporting and counceling against cyber bullying
+>>>>>>> 78df152926052faf2ff56ca7596f8ae1051c5392

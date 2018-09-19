@@ -5,6 +5,9 @@ from django.shortcuts import render
 def homepage(request):
     return render(request, 'home.html', {})
 
+def about_us(request):
+    return render(request, 'about.html',{})
+
 
 def types_of_cb(request):
     return render(request, 'typesofbullying.html', {})
